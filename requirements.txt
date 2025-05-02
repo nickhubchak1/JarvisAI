@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+torch
+transformers
+accelerate
+openai-whisper
+TTS
+llama-cpp-python
